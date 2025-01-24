@@ -1,0 +1,14 @@
+/home/hudson/dev/csharp/TextEditor/bin/Debug/net8.0/TextEditor
+/home/hudson/dev/csharp/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/hudson/dev/csharp/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/hudson/dev/csharp/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/hudson/dev/csharp/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
