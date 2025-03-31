@@ -23,7 +23,8 @@
             Console.Clear();
         }
         Menu();
-    };
+    }
+    ;
 
     switch (optionNumber)
     {
@@ -40,17 +41,34 @@
             }
             Menu();
             break;
-    };
+    }
+    ;
 
     static void Open()
     {
         Console.WriteLine("Abriu!");
-    };
+    }
+    ;
 
     static void Edit()
     {
-        Console.WriteLine("Editou!");
-    };
+        Console.Clear();
+        Console.WriteLine("Digite o texto abaixo. (Digite ESC para sair)");
+
+        string text = "";
+
+        do
+        {
+            text += Console.ReadLine();
+            text += Environment.NewLine;
+
+        }
+        while (Console.ReadKey().Key != ConsoleKey.Escape);
+
+        Console.Write(text);
+
+    }
+    ;
 }
 
 Menu();

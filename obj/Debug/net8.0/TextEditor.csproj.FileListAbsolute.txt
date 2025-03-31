@@ -12,3 +12,4 @@
 /home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.pdb
 /home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
 /home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
+/home/hudson/dev/csharp/TextEditor/obj/Debug/net8.0/TextEditor.sourcelink.json
