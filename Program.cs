@@ -65,10 +65,25 @@
         }
         while (Console.ReadKey().Key != ConsoleKey.Escape);
 
-        Console.Write(text);
+        Save(text);
 
     }
     ;
+
+    static void Save(string text)
+    {
+        Console.Clear();
+        Console.WriteLine("Qual o caminho em que você deseja salvar o arquivo?");
+
+        string path = Console.ReadLine();
+
+        using (var file = new StreamWriter(path))
+        {
+            file.Write(text);
+        }
+
+        Console.WriteLine($"Arquivo salvo com sucesso em {path}");
+    }
 }
 
 Menu();
